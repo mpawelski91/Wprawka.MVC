@@ -1,0 +1,7 @@
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Common\bin\Debug\Library.Common.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Common\bin\Debug\Library.Common.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Common\obj\Debug\Library.Common.csprojResolveAssemblyReference.cache
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Common\obj\Debug\Library.Common.csproj.CoreCompileInputs.cache
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Common\obj\Debug\Library.Common.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Common\obj\Debug\Library.Common.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Common\bin\Debug\Library.Common.dll.config

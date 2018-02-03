@@ -1,0 +1,17 @@
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Service.dll.config
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Service.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Service.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\EntityFramework.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Common.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Data.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Common.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Data.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Data.dll.config
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\EntityFramework.xml
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\obj\Debug\Library.Service.csprojResolveAssemblyReference.cache
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\obj\Debug\Library.Service.csproj.CoreCompileInputs.cache
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\obj\Debug\Library.Service.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\obj\Debug\Library.Service.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Service\bin\Debug\Library.Common.dll.config

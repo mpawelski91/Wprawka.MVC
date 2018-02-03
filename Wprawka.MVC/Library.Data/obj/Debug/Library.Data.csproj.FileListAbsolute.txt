@@ -1,0 +1,16 @@
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\bin\Debug\Library.Data.dll.config
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\bin\Debug\Library.Data.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\bin\Debug\Library.Data.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\bin\Debug\EntityFramework.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\bin\Debug\EntityFramework.xml
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.dll
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.pdb
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.Migrations.AddUserTable.resources
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.csproj.GenerateResource.Cache
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.Migrations.AddDictBookGenreTable.resources
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.Migrations.AddBookTable.resources
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.Migrations.AddBorrowTable.resources
+C:\Users\mpawe\source\repos\Wprawka.MVC\Library.Data\obj\Debug\Library.Data.csprojResolveAssemblyReference.cache
